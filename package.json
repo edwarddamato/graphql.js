@@ -1,0 +1,8 @@
+{
+  "name": "graphql.js",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/edwarddamato/graphql.js",
+  "author": "Edward D'Amato",
+  "license": "MIT"
+}
